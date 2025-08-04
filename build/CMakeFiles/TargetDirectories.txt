@@ -1,0 +1,4 @@
+/Users/zagrigoryan/Desktop/modularity_composability/build/CMakeFiles/core.dir
+/Users/zagrigoryan/Desktop/modularity_composability/build/CMakeFiles/modfuse.dir
+/Users/zagrigoryan/Desktop/modularity_composability/build/CMakeFiles/edit_cache.dir
+/Users/zagrigoryan/Desktop/modularity_composability/build/CMakeFiles/rebuild_cache.dir
